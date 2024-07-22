@@ -10,6 +10,7 @@ We have applied the best-in-class Computer Vision Algorithms to Build a full Att
 - A Web Application Showing Employees Attendance & Activities.
 - Extras: Faces Detector & Recognizer
 
+
 **Final Target** : Monitor How Much Time Does an employee stays in the Work Environment vs how much 
 does he/she waste per day either outside the environment or in fun area.
 
